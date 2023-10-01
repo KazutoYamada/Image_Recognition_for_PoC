@@ -1,0 +1,2 @@
+# Image_Recognition_for_PoC
+事前学習済みモデルを用いた画像認識のPoC用のノートブック（PyTorch）です。
